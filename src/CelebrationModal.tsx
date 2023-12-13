@@ -30,7 +30,7 @@ export default function Modal() {
           className={clsx("rounded-xl", "h-[20vh]", "mb-10")}
         />
         <p className="text-lg md:text-2xl text-center">
-          🖤 ¡Feliz dia del amor y la amistad! 🖤
+        ❤️‍🩹 TE AMO MI NIÑA ❤️‍🩹
         </p>
         <p
           className="mt-20 text-sm text-white/40 cursor-pointer"

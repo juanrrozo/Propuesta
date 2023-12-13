@@ -27,7 +27,8 @@ export default function Modal() {
         <img
           src="./carlton.gif"
           alt="yeah dance"
-          className={clsx("rounded-xl", "h-[20vh]", "mb-10")}
+          className={clsx("rounded-xl", "h-[20vh]", "mb-10")}npm install clsx
+
         />
         <p className="text-lg md:text-2xl text-center">
         ❤️‍🩹 TE AMO MI NIÑA ❤️‍🩹
